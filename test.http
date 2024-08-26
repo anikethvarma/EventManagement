@@ -1,0 +1,8 @@
+POST http://localhost:3000/event
+Content-Type: application/json
+{
+    "id":1,
+    "date": "26-08-2024",
+    "location": "New Delhi",
+    "max_paritcipants": 5
+}
